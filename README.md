@@ -47,7 +47,7 @@
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Star count (descending)* 🔽
+*Sorted by GitHub Stars_Count (descending)* 🔽
 
 - **[frappe/erpnext](https://github.com/frappe/erpnext)** [![Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)  
   📦 Full-featured open-source ERP system containing double-entry accounting, invoicing, asset management, and multi-currency ledgers. Supports custom AI LLM connectors via REST API.
